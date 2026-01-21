@@ -14,7 +14,7 @@ The chassi of the car used to belong to a RC hot wheels car, but the electronics
 - 9.6 NiMH battary for DC motors
 
 <p align="center">
-  <img src="Images/2.png" width="750">
+  <img src="Images/2.jpg" width="750">
 </p>
 
 
