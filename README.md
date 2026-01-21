@@ -3,6 +3,10 @@ This project is a Wi-Fi controlled RC car based on the Raspberry Pi Pico W. The 
 
 The chassi of the car used to belong to a RC hot wheels car, but the electronics broke years back, which motivated me to makes this car work via using a microcontroller and other hardware!
 
+<p align="center">
+  <img src="images/1.png" width="45%" />
+</p>
+
 ## Hardware Used
 - Raspberry Pi Pico W
 - TP4056 Li-Ion battery charging module
@@ -14,7 +18,7 @@ The chassi of the car used to belong to a RC hot wheels car, but the electronics
 - 9.6 NiMH battary for DC motors
 
 <p align="center">
-  <img src="Images/2.jpg" width="750">
+  <img src="images/2.jpg" width="750">
 </p>
 
 
@@ -77,11 +81,18 @@ Initializes the motor control and steering modules, sets up the Wi-Fi connection
 
 - On the left side of the screen we have controls "Upwards" and "Backwards". While we hold on of the buttons the car goes in the corresponding direction.
 - On the right side of the screen we have 3 steering options and the slider which controls the cars motor speed
+<p align="center">
+  <img src="images/3.jpeg" width="45%" />
+</p>
 - If the phone is not in a landscape position, then a message will appear on the screen "Rotate phone to landscape"
+<p align="center">
+  <img src="images/4.jpg" width="15%" />
+</p>
 
 ## Further improvements
 - Custom PCB
 - Using a WebSocket
+- Better steering mechanism
 
 
 
