@@ -6,10 +6,11 @@ steering = steeringWheel()
 trajectory = Trajectory()
 
 server = WebServer(
-    ssid = "7D654F",
-    password = "ej7xatsve3",
+    ssid = "",
+    password = "",
     steering = steering,
     trajectory = trajectory
     )
 
 server.start()
+
