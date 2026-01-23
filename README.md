@@ -89,6 +89,14 @@ Initializes the motor control and steering modules, sets up the Wi-Fi connection
   <img src="images/4.jpg" width="15%" />
 </p>
 
+## Short video of the car
+
+<p align="center">
+  <img src="images/RC_car.gif" width="45%" />
+</p>
+
+More videos can be seen in video file
+
 ## Further improvements
 - Custom PCB
 - Using a WebSocket
